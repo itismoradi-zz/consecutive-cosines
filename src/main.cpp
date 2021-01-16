@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    
+    cout << "consecutive cosines" << endl;
     return 0;
 }
 
