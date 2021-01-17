@@ -13,7 +13,7 @@
       f(3, x) = cos(cos(cos(x)))<br>
       f(4, x) = cos(cos(cos(cos(x))))<br>
       ...<br>
-      f(n, x) = cos(cos(.....cos(x)))...))<br>
+      f(n, x) = cos(f(n-1, x))<br>
   </p>
   <p align="center">
      <img src="/images/calculator.JPG" />
