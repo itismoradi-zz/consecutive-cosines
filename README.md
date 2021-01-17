@@ -19,3 +19,5 @@
      <img src="/images/calculator.JPG" />
   </p>
 </details>
+
+More information on Quora.com : [what-is-the-value-of-underbrace-cos-cos-cos-cos-x-infty](https://www.quora.com/If-x-is-a-constant-then-what-is-the-value-of-underbrace-cos-cos-cos-cos-x-infty)
