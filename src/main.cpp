@@ -1,5 +1,7 @@
 #include <iostream>
+#include <iomanip>
 using namespace std;
+#include "functions.hpp"
 
 int main()
 {
@@ -13,6 +15,8 @@ int main()
     cin >> order;
     cout << ">>> Enter (angle in degree) x = ";
     cin >> angle;
+    angle = degreesToRadians(angle);
+    cout << "Result = " << setprecision(40) << consecutiveCosines(order, angle) << endl;
 
     return 0;
 }
